@@ -14,7 +14,7 @@ A Linux-Bash script-based reminder application designed to help students manage 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Christian-Regnante/submission_reminder_app_Christian-Regnante.git
+git clone https://github.com/Loicet/submission_reminder_app_Loicet_.git
 ```
 
 ### 2️⃣ Run the Setup Script
@@ -61,7 +61,6 @@ Days remaining to submit: 2 days
 Checking submissions in ./assets/submissions.txt
 Reminder: Chinemerem has not submitted the Shell Navigation assignment!
 Reminder: Divine has not submitted the Shell Navigation assignment!
-Reminder: Christian Regnante has not submitted the Shell Navigation assignment!
-Reminder: Hirwa Armstrong has not submitted the Shell Navigation assignment!
-Reminder application executed successfully!
+Reminder: John has not submitted the Shell Navigation assignment!
+Reminder: Ruth has not submitted the Shell Navigation assignment!
 ------------------------------------
